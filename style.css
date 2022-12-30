@@ -233,3 +233,7 @@ aside > p {
     margin-top: 5px;
     margin-bottom: 5px;
 }
+
+div.video {
+    min-width: 100px;
+}
