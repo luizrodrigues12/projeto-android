@@ -137,6 +137,8 @@ aside > ul {
     columns: 2;
     list-style-position: inside;
     list-style-type: '\2714\00A0\00A0';
+    margin-bottom: 8px;
+    margin-top: 8px;
 }
 
 p > a {
@@ -225,4 +227,9 @@ footer {
 footer > p {
     margin: 0px;
     font-size: 0.8em;
+}
+
+aside > p {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
